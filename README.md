@@ -3,10 +3,10 @@ A Python script that finds out how much characters talk in a movie. All scripts 
 
 # Examples
 ### The Social Network
-![](https://imgur.com/a/uzfazS3)
+![alt text](https://imgur.com/a/uzfazS3)
 
 ### Lord of the Rings: Fellowship of the Ring
-![](https://imgur.com/a/ByMi42c)
+![alt text](https://imgur.com/a/ByMi42c)
 
 ### Pulp Fiction
-![](https://imgur.com/a/Rec186I)
+![alt text](https://imgur.com/a/Rec186I)
